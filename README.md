@@ -133,16 +133,3 @@ hospitality-analytics-dashboard/
 - KPI tracking and storytelling through data visualization
 - Hospitality domain knowledge (RevPAR, ADR, booking lifecycle)
 
----
-
-## 👤 Author
-
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
